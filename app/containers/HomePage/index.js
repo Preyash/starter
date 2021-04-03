@@ -8,8 +8,7 @@ export default function HomePage() {
     <Layout>
       <h1 className="display-3">No Redux, React boilerplate</h1>
       <p className="lead">
-        <small>by </small>
-        Preyash Hojiwala
+        by Preyash Hojiwala
       </p>
     </Layout>
   );
